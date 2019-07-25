@@ -1,9 +1,11 @@
-print("\n\nhola mundo\n")
+print("\n\nHola mundo\n")
 
 num1=12
 
 num2=13
 
 res=num2+num1
+print("res= ",res)
 
-print("\n\n",res)
+assert res==6, "Should be 6"
+
