@@ -7,5 +7,5 @@ num2=13
 res=num2+num1
 print("res= ",res)
 
-assert res==6, "Should be 6"
+assert res==25, "Should be 6"
 
